@@ -126,9 +126,6 @@ function App() {
         <h1 className="text-5xl font-serif text-pink-400 mb-1 font-semibold">
           Nuestra Melodía
         </h1>
-        <p className="text-xs tracking-[0.3em] text-gray-400 uppercase font-medium">
-          LADO A — 2026
-        </p>
       </motion.div>
 
       <div className="relative mb-14 flex justify-center items-center">
